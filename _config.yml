@@ -1,0 +1,15 @@
+# Site Settings
+title: ITSS QDA 2022
+email: jordan.wrigley@colorado.edu
+description: >
+  Course Git for ITSS QDA 2022
+baseurl: "/itss_qda_2022"
+url: "http://jwrigs.github.io"
+twitter_username: research.wrigley
+github_username:  jwrigs
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
