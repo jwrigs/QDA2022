@@ -17,20 +17,15 @@ Data Librarian and Free-range Data Consultant
 Center for Research Data & Digital Scholarship
 
 ## Course Description
-DESCRIPTION
+Qualitative data research and analysis includes growing technical aspects with numerous tools. This is a practical crash course in qualitative data tools focused on maximizing the efficacy of tool selection and usage through critical assessment of research goals for analysis. Topics will include data collection through the lens of planned analysis, QDA open-source and paid tools, and visualization for data reporting. Learners will complete a final project portfolio of resources and exploratory tool analyses.
 
 ### Objectives:
 - 
 - 
 - 
 
-### By the end of this course, we will be able to:
-- 
-- 
-- 
-
 ## Required Materials
-MATERIALS
+None other than devices that will enable you to remotely attend and participate in class. Please contact us if you’re concerned about your tech equipment. In following the data practices of of open scholarship and science, all materials will be available for free online or via the University Libraries, etc. They all will be hyperlinked in this syllabus. For some materials, you will need to have your proxy settings setup for off-campus access (see setup instructions). You are not required to purchase anything from the CU Bookstore.
 
 ## Communication
 COMMUNICATION
@@ -41,11 +36,21 @@ COMMUNICATION
 - 
 
 ## Module 
-- Week 1 -
-- Week 2 -
-- Week 3 - 
-- Week 4 -
-- Week 5 - 
+- Week 1: Qualitative Types and Considerations
+What research approaches and types of data require which tools? This session will examine the planning phase of qualitative data research methods and how to develop processes which guide ethical data collection, analysis, and dissemination.
+
+- Week 2: Qualitative Data Collection
+Qualitative data collection methods and tools are numerous. Selecting ethical and effective collection sources,  instruments, and tools requires parallel critical assessment of project goals, data, and resources. This session will overview exploratory collection methods and tools including webscraper.io, APIs, and others. 
+
+- Week 3: Qualitative Data Analysis 
+Analysis is often a technical and tool heavy phase of modern qualitative data research. A variety of tools may be applicable to a given qualitative research project. This session will tour several survey-based, text mining, qualitative coding, and other tools including R and Python packages. This will also include a deeper dive into particular tools and techniques to upskill learners' practical knowledge.
+ 
+- Week 4: Communicating QDA
+Being able to communicate complex qualitative concepts in data findings is a key aspect of research dissemination. This session will examine current common and popular tools for qualitative data visualization and reporting. It will also provide examples of data communication platforms (ex. story maps) and language for presentations and manuscripts. 
+
+- Week 5: Project Presentations and Peer Feedback
+Learners will present a lightning talk presentation overviewing their project including: data types, sources, and collection instruments; selected analysis methods and tools; initial and exploratory findings and visualizations. Presenters will receive peer feedback and initiate discussion around their projects. 
+
 
 ## COVID 19
 As your instructors, our first responsibility is to provide you a safe environment in which to learn, which is why we have chosen to hold this course remotely. If you anticipate this online class will cause you difficulties, please reach out and we will collaborate on solutions. If you experience pandemic-related (or other!) challenges to your ability to participate in this course, please also let us know how we can support you, regardless of what point in the semester issues arise. We are in a continuing global crisis. Be on Team You.
