@@ -39,7 +39,7 @@ COMMUNICATION
 - Week 1: Qualitative Types and Considerations
 What research approaches and types of data require which tools? This session will examine the planning phase of qualitative data research methods and how to develop processes which guide ethical data collection, analysis, and dissemination.
 
-- Week 2: Qualitative Data Collection
+- [Week 2](https://github.com/jwrigs/QDA22_gitpage/blob/2366a7da63664c90f07b66f4312429e947e767b8/_pages/week1.md): Qualitative Data Collection
 Qualitative data collection methods and tools are numerous. Selecting ethical and effective collection sources,  instruments, and tools requires parallel critical assessment of project goals, data, and resources. This session will overview exploratory collection methods and tools including webscraper.io, APIs, and others. 
 
 - Week 3: Qualitative Data Analysis 
