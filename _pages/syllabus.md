@@ -7,7 +7,7 @@ Tuesdays, 10am-12:30pm Mountain Time meeting remotely
 ## Instructors
 
 ### Nickoal Eichmann-Kalwara (call me Nickoal, she/her)
-nickoal.eichmann@colorado.edu,
+nickoal.eichmann@colorado.edu
 Assistant Professor, Digital Scholarship Librarian
 Director of Digital Scholarship, Center for Research Data & Digital Scholarship
 
@@ -20,14 +20,14 @@ Center for Research Data & Digital Scholarship
 DESCRIPTION
 
 ### Objectives:
-1
-2
-3
+- 1
+- 2
+- 3
 
 ### By the end of this course, we will be able to:
-1
-2
-3
+- 1
+- 2
+- 3
 
 ## Required Materials
 MATERIALS
@@ -35,19 +35,17 @@ MATERIALS
 ## Communication
 COMMUNICATION
 
-## Grading
-
 ## Assingments
-1
-2
-3
+- 1
+- 2
+- 3
 
-## Modules
-Week 1 -
-Week 2 -
-Week 3 - 
-Week 4 -
-Week 5 - 
+## Module 
+- Week 1 -
+- Week 2 -
+- Week 3 - 
+- Week 4 -
+- Week 5 - 
 
 ## COVID 19
 As your instructors, our first responsibility is to provide you a safe environment in which to learn, which is why we have chosen to hold this course remotely. If you anticipate this online class will cause you difficulties, please reach out and we will collaborate on solutions. If you experience pandemic-related (or other!) challenges to your ability to participate in this course, please also let us know how we can support you, regardless of what point in the semester issues arise. We are in a continuing global crisis. Be on Team You.
