@@ -8,14 +8,14 @@ Tuesdays, 10am-12:30pm Mountain Time meeting remotely
 
 ### Nickoal Eichmann-Kalwara (call me Nickoal, she/her)
 nickoal.eichmann@colorado.edu <br>
-Assistant Professor, Digital Scholarship Librarian
-Director of Digital Scholarship
-Center for Research Data & Digital Scholarship
+Assistant Professor, Digital Scholarship Librarian <br>
+Director of Digital Scholarship <br>
+Center for Research Data & Digital Scholarship <br>
 
 ### Jordan Wrigley (call me Jordan, she/her)
 jordan.wrigley@colorado.edu <br>
-Data Librarian and Free-range Data Consultant
-Center for Research Data & Digital Scholarship
+Data Librarian and Free-range Data Consultant <br>
+Center for Research Data & Digital Scholarship <br>
 
 ## Course Description
 Qualitative data research and analysis includes growing technical aspects with numerous tools. This is a practical crash course in qualitative data tools focused on maximizing the efficacy of tool selection and usage through critical assessment of research goals for analysis. Topics will include data collection through the lens of planned analysis, QDA open-source and paid tools, and visualization for data reporting. Learners will complete a final project portfolio of resources and exploratory tool analyses.
