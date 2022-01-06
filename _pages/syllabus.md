@@ -7,12 +7,12 @@ Tuesdays, 10am-12:30pm Mountain Time meeting remotely
 ## Instructors
 
 ### Nickoal Eichmann-Kalwara (call me Nickoal, she/her)
-nickoal.eichmann@colorado.edu
+nickoal.eichmann@colorado.edu <br>
 Assistant Professor, Digital Scholarship Librarian
 Director of Digital Scholarship, Center for Research Data & Digital Scholarship
 
 ### Jordan Wrigley (call me Jordan, she/her)
-jordan.wrigley@colorado.edu
+jordan.wrigley@colorado.edu <br>
 Data Librarian and Free-range Data Consultant
 Center for Research Data & Digital Scholarship
 
@@ -20,14 +20,14 @@ Center for Research Data & Digital Scholarship
 DESCRIPTION
 
 ### Objectives:
-- 1
-- 2
-- 3
+- 
+- 
+- 
 
 ### By the end of this course, we will be able to:
-- 1
-- 2
-- 3
+- 
+- 
+- 
 
 ## Required Materials
 MATERIALS
@@ -36,9 +36,9 @@ MATERIALS
 COMMUNICATION
 
 ## Assingments
-- 1
-- 2
-- 3
+- 
+- 
+- 
 
 ## Module 
 - Week 1 -
