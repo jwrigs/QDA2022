@@ -4,7 +4,7 @@
 Spring 2022, University of Colorado Boulder
 Tuesdays, 10am-12:30pm Mountain Time meeting remotely
 
-## Instructors
+## Facilitors
 
 ### Nickoal Eichmann-Kalwara (call me Nickoal, she/her)
 nickoal.eichmann@colorado.edu <br>
