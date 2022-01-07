@@ -14,7 +14,7 @@ Center for Research Data & Digital Scholarship <br>
 
 ### Jordan Wrigley (call me Jordan, she/her)
 jordan.wrigley@colorado.edu <br>
-Data Librarian and Free-range Data Consultant <br>
+Data Librarian, Feral Researcher, and Free-range Data Consultant <br>
 Center for Research Data & Digital Scholarship <br>
 
 ## Course Description
