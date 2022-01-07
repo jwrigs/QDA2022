@@ -36,7 +36,7 @@ COMMUNICATION
 - 
 - 
 
-## Module 
+## Modules
 - [Week 1](https://github.com/jwrigs/QDA22_gitpage/blob/2366a7da63664c90f07b66f4312429e947e767b8/_pages/week1.md): Qualitative Types and Considerations
 What research approaches and types of data require which tools? This session will examine the planning phase of qualitative data research methods and how to develop processes which guide ethical data collection, analysis, and dissemination.
 
