@@ -33,7 +33,7 @@
 ## For Week 3, bring:
 - Qualitative data analysis tool or method you are interested in or might use in a project, 
 **OR**
-An example, reading, or tutorial of the analysis method or tool with URL or link.
+- An example, reading, or tutorial of the analysis method or tool with URL or link.
 
 <br>Resources: [Sage’s Little Blue Books](https://methods.sagepub.com/Search/Results?booktypes=qrm&IncludeSegments=false&IncludeParts=false&sort=pubyear&keywords[0].Field=FullText&keywords[0].Text=&noback=true) and [Sage’s QDA Methods Map](https://methods.sagepub.com/methods-map/qualitative-data-analysis)
 
