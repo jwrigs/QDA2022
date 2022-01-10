@@ -3,11 +3,10 @@
 
 ## Week 2: [Jamboard](https://jamboard.google.com/d/1wuBdJuwg8EnZ5eV2Akv4xxoGbZd_r1fM3g_NJVE7olU/edit?usp=sharing)
 
----
 ### Readings:
 - [Ethics in Digital Research](https://drive.google.com/file/d/1kXGg1a-fx5-sf4PUoafi6BZpPNeAy2tb/view?usp=sharing) (PDF; K. Tiidenberg, 2018)
 **OR**
-- [Social Media Research Ethics](https://methods.sagepub.com/video/social-media-research-and-ethics) *VPN access required, ~00:22:57
+- [Qualitative Data Reuse: Practices and Perils](https://open.spotify.com/episode/2FinuSGoDVHuobjBGR5Les) ~ 00:21:47
 - [Should You Build a Scraper?](https://www.storybench.org/wp-content/uploads/2016/04/flowchart_final.jpeg)
 - [Consent Form Sample](https://www.colorado.edu/researchinnovation/sites/default/files/attached-files/sample_consent_form_08.25.2017.pdf)
 
