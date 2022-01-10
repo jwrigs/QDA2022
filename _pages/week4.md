@@ -6,8 +6,18 @@
 - Data storytelling and visualization
 - Data Storage
   - Security and IRB
-- Qualitative geo-data visualization with Dr. Adi Ranganath
+- Qualitative geo-data visualization and story-telling with Dr. Adi Ranganath
 
 ## Readings:
 - [Creative Ways to Visualize Qualitative Data](https://youtu.be/MywkhShzAFM) ~ 01:02:15
 **OR**, [Tips for Qualitative Visualization](https://youtu.be/MywkhShzAFM) (Lydia Hooper, 2019)
+
+## Tools:
+- [Tableau](https://www.tableau.com/)
+- [RAWGraphs](https://rawgraphs.io/)
+- [Oral History (As) Data](https://uidaholib.github.io/oral-history-as-data/)
+- [Knight Lab Tools](https://knightlab.northwestern.edu/projects/)
+- [Juncture](https://juncture-digital.org/)
+- [ArcGIS StoryMaps](https://storymaps.arcgis.com/)
+- [QGIS](https://www.qgis.org/en/site/)
+
