@@ -1,8 +1,12 @@
 # Syllabus
 
-## Qualitative Data Analysis CLASS NUMBER
+## Qualitative Data Analysis
 Spring 2022, University of Colorado Boulder
 Tuesdays, 10am-12:30pm Mountain Time meeting remotely
+
+## Class Zoom
+- https://cuboulder.zoom.us/j/94682755692
+- Passcode: 816529
 
 ## Facilitators
 
