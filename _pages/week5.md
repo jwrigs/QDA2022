@@ -8,14 +8,14 @@
 
 ## Final project examples:
 
-# Example #1: 
+### Example #1: 
 - Outline of lifecycle for a real or hypothetical project
   - Create data or reuse data? Which data sources?
   - What ethical considerations may there be?
   - Which tools are most appropriate and why?
   - Which methods are most appropriate and why?
   
-# Example #2:
+### Example #2:
 - Explore analysis in a specific 1-2 tools you might be considering
   - What worked and what did not?
   - Where were the sticky points?
